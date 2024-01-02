@@ -55,7 +55,7 @@ You can use the provided API endpoints to manage airports and flights. API docum
 - **POST /api/flights**: Create a new flight.
 - **PUT /api/flights/{id}**: Update an existing flight.
 - **DELETE /api/flights/{id}**: Delete a flight.
-- **GET /api/flights/newByDateReturn**: Get flights by departure and return dates.
+- **GET /api/flights/search**: Get flights by departure and return dates.
 
 ## Security
 
