@@ -28,7 +28,7 @@ Make sure you have the following before running the application:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/flight-search-api.git
+   git clone https://github.com/cuneytcagriyilmaz/flightsearchapi.git
    
 ## Configuration
 
