@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "departureDate": "2024-01-05 08:00:00",
+    "returnDate": "2024-01-07 12:00:00",
+    "price": 600,
+    "departureAirport": {
+      "id": 1,
+      "city": "Bodrum"
+    },
+    "arrivalAirport": {
+      "id": 2,
+      "city": "Istanbul"
+    }
+  },
+  {
+    "id": 2,
+    "departureDate": "2024-01-05 15:00:00",
+    "returnDate": "2024-01-08 20:00:00",
+    "price": 700,
+    "departureAirport": {
+      "id": 1,
+      "city": "Bodrum"
+    },
+    "arrivalAirport": {
+      "id": 2,
+      "city": "Istanbul"
+    }
+  },
+  {
+    "id": 3,
+    "departureDate": "2024-01-05 16:00:00",
+    "returnDate": "2024-01-09 23:00:00",
+    "price": 950,
+    "departureAirport": {
+      "id": 1,
+      "city": "Bodrum"
+    },
+    "arrivalAirport": {
+      "id": 2,
+      "city": "Istanbul"
+    }
+  },
+  {
+    "id": 4,
+    "departureDate": "2024-01-04 08:00:00",
+    "returnDate": "2024-01-05 06:00:00",
+    "price": 850,
+    "departureAirport": {
+      "id": 3,
+      "city": "Antalya"
+    },
+    "arrivalAirport": {
+      "id": 1,
+      "city": "Bodrum"
+    }
+  },
+  {
+    "id": 5,
+    "departureDate": "2024-01-04 08:00:00",
+    "returnDate": "2024-01-05 22:00:00",
+    "price": 800,
+    "departureAirport": {
+      "id": 3,
+      "city": "Antalya"
+    },
+    "arrivalAirport": {
+      "id": 1,
+      "city": "Bodrum"
+    }
+  },
+  {
+    "id": 6,
+    "departureDate": "2024-01-04 09:00:00",
+    "returnDate": "2024-01-05 20:00:00",
+    "price": 1200,
+    "departureAirport": {
+      "id": 3,
+      "city": "Antalya"
+    },
+    "arrivalAirport": {
+      "id": 2,
+      "city": "Istanbul"
+    }
+  },
+  {
+    "id": 7,
+    "departureDate": "2024-01-04 11:00:00",
+    "returnDate": "2024-01-05 12:00:00",
+    "price": 1300,
+    "departureAirport": {
+      "id": 3,
+      "city": "Antalya"
+    },
+    "arrivalAirport": {
+      "id": 2,
+      "city": "Istanbul"
+    }
+  },
+  {
+    "id": 8,
+    "departureDate": "2024-01-04 15:00:00",
+    "returnDate": "2024-01-06 19:00:00",
+    "price": 1100,
+    "departureAirport": {
+      "id": 3,
+      "city": "Antalya"
+    },
+    "arrivalAirport": {
+      "id": 2,
+      "city": "Istanbul"
+    }
+  },
+  {
+    "id": 9,
+    "departureDate": "2024-01-04 23:00:00",
+    "returnDate": "2024-01-06 21:00:00",
+    "price": 1160,
+    "departureAirport": {
+      "id": 3,
+      "city": "Antalya"
+    },
+    "arrivalAirport": {
+      "id": 2,
+      "city": "Istanbul"
+    }
+  }
+]
